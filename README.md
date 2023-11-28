@@ -11,4 +11,4 @@ I've independently designed and coded a responsive real estate website, and it's
 
 <h2>Screen_Shoot</h2>
 
-![](screen_real-estate-website.gif)
+![](screen_real_estate-website.gif)
